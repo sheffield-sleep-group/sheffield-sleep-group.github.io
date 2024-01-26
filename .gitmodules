@@ -1,0 +1,6 @@
+[submodule "sleep/themes/hugo-theme-cleanwhite"]
+	path = sleep/themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "sleep/themes/hugo-theme"]
+	path = sleep/themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
