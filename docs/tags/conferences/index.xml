@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conferences on Sheffield Sleep Research Group</title>
+    <link>https://sheffield-sleep-group.github.io/tags/conferences/</link>
+    <description>Recent content in conferences on Sheffield Sleep Research Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://sheffield-sleep-group.github.io/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts Archive</title>
+      <link>https://sheffield-sleep-group.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sheffield-sleep-group.github.io/archive/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
